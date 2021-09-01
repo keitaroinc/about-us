@@ -5,7 +5,7 @@
 Keitaro is a company where people grow and work with each other. Our collaborations with global organizations provide first-class open-source solutions that make a difference to the community and have a positive social impact. We are Linux and Open-source software consultancy company with strong focus in bleeding edge technologies and managed services and develops solutions empowering governments, NGOs, and enterprises around the world. Keitaro provides consulting services across leading open-source technologies. Our core services include:
 </br></br>
 
-<img src="images/open-source.png" width="150" height="200"><img src="images/ckan.png" width="150" height="200"><img src="images/cloud-services.png" width="150" height="200"><img src="images/serucity-licensing.png" width="150" height="200">
+<img src="images/open-source.png" width="150" height="200"><span>&emsp;&emsp;</span><img src="images/ckan.png" width="150" height="200"><span>&emsp;&emsp;</span><img src="images/cloud-services.png" width="150" height="200"><span>&emsp;&emsp;</span><img src="images/serucity-licensing.png" width="150" height="200">
 
 ## Why Keitaro?
 ✅ We’re built on open-source standards and technologies. </br>
