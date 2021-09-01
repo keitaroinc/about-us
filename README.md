@@ -7,6 +7,8 @@ Keitaro is a company where people grow and work with each other. Our collaborati
 
 <img src="images/open-source.png" width="150" height="200"><span>&emsp;&emsp;</span><img src="images/ckan.png" width="150" height="200"><span>&emsp;&emsp;</span><img src="images/cloud-services.png" width="150" height="200"><span>&emsp;&emsp;</span><img src="images/serucity-licensing.png" width="150" height="200">
 
+At Keitaro, you will not be treated as just another account. Unlike some of the larger solution providers, we are small enough to really focus on our customers. But rest assured, we’ve got the resources and capabilities to deliver. Our customers choose Keitaro because they know we will go the extra mile, providing superior services and consistently delivering solutions on time and on budget -- ensuring their total satisfaction.
+
 ## Why Keitaro?
 ✅ We’re built on open-source standards and technologies. </br>
 ✅ An experienced and empowered open-source team. </br>
@@ -15,6 +17,7 @@ Keitaro is a company where people grow and work with each other. Our collaborati
 ✅ Starting from April 2021, we are ISO/IEC 5230 certified. This ensures that the solutions we create follow the OpenChain standard and that Keitaro`s practices and procedures are reliable and ompliant with accepted industry standards. </br></br>
 <img src="images/iso.png" width="300" height="80">
 
+<!---
 ## Products:
 - **Open-source** </br>
 Keitaro provides consulting services across leading open-source technologies, utilizing various models that follow our clients through every step of the way. We design and develop open-source solutions to empower companies, nonprofit organizations and governments right across the world.</br>
@@ -23,17 +26,12 @@ We’re passionate about open-source technologies and they form an essential par
 -
 
 ## Services:
-
+---->
 
 ### Technologies we use:
 
-
-
-
-
-- 🌱 Our team is around x people and we are still growing.
-- 📫 How to reach us: 
-- 😄 Pronouns: ...
+</br>
+- 📫 How to reach us: info@keitaro.com
 - ⚡ Fun fact: ...
 - Offices:
 
