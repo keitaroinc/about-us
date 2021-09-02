@@ -11,7 +11,6 @@ Hey there<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/mas
 **<i>📍 Current locations: </i>** Sweden, Germany, North Macedonia, the United Kingdom and the United States. </br>
 **<i>👥 Company size:</i>** over 60 global employees. </br>
 **<i>🏢 Founded:</i>** 2012. </br>
-<i>🏡💻 Currently we're working from home. </i>
 
 ## Tools and languages we use to create masterpiece:
 <p align="left"><img src="https://media.giphy.com/media/kH1DBkPNyZPOk0BxrM/giphy.gif" width="100"> <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://golang.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> 
