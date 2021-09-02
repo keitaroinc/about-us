@@ -4,6 +4,7 @@
 <a href="https://www.linkedin.com/company/keitaro"><img src="https://img.shields.io/badge/LinkedIn--_.svg?style=social&logo=linkedin" alt="LinkedIn"></a>
 [![Twitter: Keitaro](https://img.shields.io/twitter/follow/KeitaroInc?style=social)](https://twitter.com/keitaroinc)
 <a href="mailto:info@keitaro.com"><img alt="Email" src="https://img.shields.io/badge/Email-info@keitaro.com-blue?style=flat-square&logo=gmail"></a>
+<a href = "https://www.facebook.com/KeitaroInc/"> <img src = "https://cdn1.iconfinder.com/data/icons/logotypes/32/square-facebook-256.png" height= 15px width = 15px> Facebook </a>
 
 Hey there<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30" height="30">, we can turn **your ideas into solutions.**
 
