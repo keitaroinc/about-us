@@ -1,8 +1,9 @@
 <img src="images/keitaro.png" width="200" height="60">
 
 ![GitHub User's stars](https://img.shields.io/github/stars/keitaroinc?affiliations=COLLABORATOR&label=GitHub%20Stars&logo=GitHub&style=social)
-[![Linkedin: Keitaro](https://img.shields.io/badge/-Keitaro-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/keitaro/)](https://www.linkedin.com/company/keitaro)
+<a href="https://www.linkedin.com/company/keitaro"><img src="https://img.shields.io/badge/LinkedIn--_.svg?style=social&logo=linkedin" alt="LinkedIn"></a>
 [![Twitter: Keitaro](https://img.shields.io/twitter/follow/KeitaroInc?style=social)](https://twitter.com/keitaroinc)
+<a href="mailto:info@keitaro.com"><img alt="Email" src="https://img.shields.io/badge/Email-info@keitaro.com-blue?style=flat-square&logo=gmail"></a>
 
 Hey there<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30" height="30">, we can turn **your ideas into solutions.**
 
