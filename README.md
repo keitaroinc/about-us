@@ -10,7 +10,7 @@ Hey there<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/mas
 **<i>📍 Current locations: </i>** Sweden, Germany, North Macedonia, the United Kingdom and the United States. </br>
 **<i>👥 Company size:</i>** over 60 global employees. </br>
 **<i>🏢 Founded:</i>** 2012. </br>
-<i>🏡💻 Currently we work</i> from home. 
+<i>🏡💻 Currently we're working</i> from home. 
 
 
 ## Tools and languages we use to create masterpiece:
